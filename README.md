@@ -1,6 +1,6 @@
 # Sistema Web de Gerenciamento de Eventos Acadêmicos
 
-Feito com PHP (orientado a objetos + PDO), MySQL, HTML e CSS.
+Feito com PHP (orientado a objetos + PDO), MySQL.
 
 ## Como executar (XAMPP)
 
